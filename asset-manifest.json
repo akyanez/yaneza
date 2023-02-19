@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/%7Byaneza%7D/static/css/main.564baa2c.css",
+    "main.js": "/%7Byaneza%7D/static/js/main.cd746057.js",
+    "static/media/office.jpg": "/%7Byaneza%7D/static/media/office.ba50663d407dc98d95cd.jpg",
+    "index.html": "/%7Byaneza%7D/index.html",
+    "main.564baa2c.css.map": "/%7Byaneza%7D/static/css/main.564baa2c.css.map",
+    "main.cd746057.js.map": "/%7Byaneza%7D/static/js/main.cd746057.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.564baa2c.css",
+    "static/js/main.cd746057.js"
+  ]
+}
