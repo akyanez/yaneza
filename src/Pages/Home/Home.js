@@ -15,10 +15,10 @@ function Home(props) {
           </div>
             <div class='text-on-image'>
             <h3>Hi, I'm Alyssa</h3>
-          Developer, Designer, and project manager.
+         Web developer and designer.
         <br></br>
         <br></br>
-          Currently based in Tucson, AZ completing my Computer Science degree from the University of Arizona
+          Currently based in Tucson, AZ completing my Computer Science degree from the University of Arizona.
             </div>
         </div>
       </header>

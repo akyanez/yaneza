@@ -1,11 +1,11 @@
 import React, {useEffect, useState, Suspense} from 'react';
 import { useNavigate } from 'react-router-dom';
 import ReactDOM from 'react-dom';   
-import "./Navbar.css";
+import "./HomeNavbar.css";
 // import NavLogo from "./nav-images/NavLogo.png";
 // import homeImage from "./images/office.jpg";
 
-function Navbar(props) {
+function HomeNavbar(props) {
     //useState Hook
     const [pageName, setPageName] = useState("");
     function handleClick(event) {
@@ -43,7 +43,7 @@ function Navbar(props) {
         </div>
     )
 }
-    const navBarItems = ['About','Work','Play','Contact','Resume']; //Play
+    const navBarItems = ['About','Work','Contact','Resume','Play']; //Play
 
 
-export default Navbar;
+export default HomeNavbar;

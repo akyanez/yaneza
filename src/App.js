@@ -5,14 +5,15 @@ import {BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Navbar from './Components/Navbar/Navbar';
 import Home from './Pages/Home/Home';
 import About from './Pages/About/About'
+// import HomeNavbar from './Components/Navbar/HomeNavbar';
 import NavbarList from './Components/Navbar/Navbar';
-
+////component={HomeNavbar}/>
 function App() {
   return (
     <>
-    <Navbar/>
+     <Navbar/> 
       <Routes>
-       <Route exact path='/' element={<Home/>}/>
+       <Route exact path='/' element={<Home/>}/>  
        <Route path='/About' element={<About/>}/>
       {/* <Route path='/home' element={<Homepage/>}/>
       <Route path='/Introduction' element={<Homepage/>}/>

@@ -2,3 +2,31 @@ body,html {
     background-image: white;
     /* background:black; */
 }
+
+.head-text {
+    position: relative;
+    font-family: "Sinhala";
+ }
+ .text-on-image {
+   position: absolute;
+   width: 50%;
+   right: 50%;
+   left: 40%;
+   bottom: 80%;
+ }
+
+.office-photo {
+    /* position: relative; */
+    width: 100%;
+
+    /* width: 150%; */
+    height:-200%;
+    /* padding-left: -195%; */
+    /* padding-top: -70px; */
+    /* padding-bottom: 110px; */
+
+}
+
+body.home #navigation-top {
+    display: none !important;
+   }

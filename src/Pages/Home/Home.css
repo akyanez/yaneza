@@ -1,12 +1,11 @@
 body,html {
-    /* background-image: white; */
     background: white;
 }
 
 /* Removes navbar from homepage only */
-.navbar { 
+/* .navbar { 
     display: none;
-}
+} */
 
 .head-text {
     position: relative;
